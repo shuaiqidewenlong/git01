@@ -8,7 +8,7 @@ public class Hello {
         System.out.println("hello");
         System.out.println("hello123");
         System.out.println("helloword");
-
+        System.out.println("张三");
     }
 
     public static void main(String[] args) {
@@ -20,9 +20,6 @@ public class Hello {
         System.out.println("555");
         System.out.println("666");
         System.out.println("777");
-
-
-
 
     }
 }
