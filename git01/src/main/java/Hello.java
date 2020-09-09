@@ -23,9 +23,6 @@ public class Hello {
         System.out.println("依法逮捕文龙");
         System.out.println("大家都退了吧");
         System.out.println("文龙被抓了");
-
-
-
-
+        System.out.println("张三");
     }
 }
