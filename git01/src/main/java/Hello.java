@@ -24,5 +24,6 @@ public class Hello {
         System.out.println("大家都退了吧");
         System.out.println("文龙被抓了");
         System.out.println("张三");
+        System.out.println("chaonim");
     }
 }
