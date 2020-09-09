@@ -7,6 +7,7 @@ public class Hello {
     public void hello(){
         System.out.println("hello");
         System.out.println("hello123");
+        System.out.println("helloword");
     }
 
     public static void main(String[] args) {
