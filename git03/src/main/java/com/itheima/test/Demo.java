@@ -12,6 +12,5 @@ public class Demo {
         System.out.println(did=8);
         System.out.println(did=9);
         System.out.println(did=10);
-        System.out.println(1111);
     }
 }
